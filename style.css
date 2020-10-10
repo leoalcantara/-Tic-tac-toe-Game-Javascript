@@ -20,9 +20,9 @@ body{
 }
 
 button {
-    margin-top: 16px;
-    width: 138px;
-    height: 38px;
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
     background: #ccc;
     cursor: pointer;
 }
